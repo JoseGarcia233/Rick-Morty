@@ -22,7 +22,6 @@
         </vs-navbar-item>
       </router-link>
       <template #right>
-        <vs-button flat :color="active4">Login</vs-button>
         <vs-button :color="active4">Get Started</vs-button>
       </template>
     </vs-navbar>
